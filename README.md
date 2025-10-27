@@ -4,8 +4,7 @@ I'm excited to share my FP20 Analytics Challenge 31!
 This challenge focused on analyzing Consumer Financial Complaints Data from the Consumer Financial Protection Bureau (CFPB) to uncover insights into performance, responsiveness, and customer satisfaction trends.
 
 ![CFPB Analytics Dashboard](images/Dashboard-1.jpg)
-![CFPB Analytics Dashboard](images/Dashboard-2.jpg)
-![CFPB Analytics Dashboard](images/Dashboard-3.jpg)
+
 🔍 Key Insights 
 
 📈 Total Complaints: 63K (+28.2% YoY) — major rise in consumer issues, possibly due to increased service use or unresolved problems. 
